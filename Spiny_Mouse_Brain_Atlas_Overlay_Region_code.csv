@@ -1,0 +1,140 @@
+10Cb,10th cerebellar lobule
+2Cb,2nd cerebellar lobule
+3Cb,3rd cerebellar lobule
+4Cb,4th cerebellar lobule
+5Cb,5th cerebellar lobule
+6Cb,6th cerebellar lobule
+7Cb,7th cerebellar lobule
+7N,facial nucleus
+8Cb,8th cerebellar lobule
+9Cb,9th cerebellar lobule
+AA ,anterior amygdaloid area
+ac,anterior commissure
+AcbC,accumbens core
+AcbSh,accumbens shell
+AH,anterior hypothalamic area
+Amb,ambiguus area
+AO,anterior olfactory area
+APT,anterior pretectal thalamic area
+ATA,anterior thalamic area
+Au,auditory ctx
+Ba,basal amygdaloid area
+CA1,CA1 
+CA3,CA3 
+cc,corpus callosum
+Ce,central amygdaloid  area
+Cer,cerebellar nuclear area
+Cg,anterior cingulate area 
+Cl,claustrum
+CM,central medial thalamic area
+Co,cortical amygdaloid area
+cp,cerebral peduncle
+CPu,caudate putamen
+Crus,crus of ansiform lobule
+Cu,cuneate area
+DB,diagonal band of Broca
+DG,dentate gyrus 
+dhc,dorsal hippocampal commissure
+DM,dorsal medial hypothalamic area 
+DR,dorsal raphe 
+EA,extended amydala
+ec,external capsule
+EN,endopiriform area
+Ent,entorhinal ctx
+f,fornix
+fi,fimbria hippocampus
+Fl,flocculus cerebellum
+fmi,forceps minor corpus callosum
+FrA,frontal association ctx
+Gi,gigantocelllaris reticular area
+Gl,glomerular layer
+GP,globus pallidus
+GrO,granular cell layer
+Hb,habenular area
+ic,internal capsule
+IC,inferior colliculus
+IL,infralimbic ctx
+InC,insular caudal ctx 
+InR,insular rostral ctx 
+IP,interpeduncular area
+IRt,intermediate reticular area
+La,lateral amygdaloid area
+LC,locus ceruleus
+LD,lateral dorsal thalamic area
+LG,lateral geniculate
+LHC,lateral caudal hypothalamic area
+LHR,lateral rostral hypothalamic area
+ll,lateral lemniscus
+LL,lemniscal area
+LP,lateral posterior thalamic area
+LPGi,lateral paragigantocellular area
+LPO,lateral preoptic area
+LRt,lateral reticular area
+LS,lateral septal area
+M1,primary motor ctx 
+M2,secondary motor ctx 
+MD,medial dorsal thalamic area
+MdD,medullary reticular dorsal area
+MdV,medullary reticular ventral area
+Me,medial amygdaloid area
+MG,medial geniculate
+ml,medial lemniscus
+MM,medial mammillary area
+MnR,median raphe area
+MPA,medial preoptic area
+mRt,mesencephalic reticular formation
+MS,medial septal area
+O,orbital ctx
+Olv,olivary complex
+Olv,olivary area
+opt,optic tract
+Pa,paraventricular hypothalamic area 
+PAG,periaqueductal gray 
+PB,parabrachial area
+PCRt,parvicellular reticular area
+PF,parafascicular thalamic area
+PH,posterior hypothalamic area
+PirC,caudal piriform ctx
+PirR,rostral piriform ctx
+Pit,pituitary
+PM,paramedian lobule
+Pn,pontine area
+PnC,pontine reticular nucleus caudal
+PnO,pontine reticular nucleus oral
+Po,posterior thalamic area
+Pr,prepositus area
+Pr5,principal sensory nucleus trigeminal  
+PrL,prelimbic ctx
+Pt,parietal ctx
+PTg,pedunculopontine tegmental area
+PVA,paraventricular thalamic area 
+py,pyramidal tracts
+Re,reuniens thalamic area
+RSC,retrosplenial caudal ctx
+RSR,retrosplenial  rostral ctx
+Rt,reticular thalamic area
+RtT,reticulotegmental nucleus 
+S,subiculum
+S1,primary somatosensory ctx 
+S2,secondary somaotsensory ctx 
+SC,superior colliculus
+Sim,simple lobule cerebellum
+sm,stria medullaris
+SN,substantia nigra 
+Sol,solitary tract area
+Sp5,spinal trigeminal nuclear area
+ST,bed nucleus stria terminalis
+st,stria terminalis
+Te,temporal ctx
+tfp,transverse fibers pons
+TT,tenia tecta ctx
+Tu,olfactory tubercles
+V,ventricle
+V1,visual 1 ctx
+Ve, vestibular area
+VMH,ventral medial hypothalamic area
+VP,ventral pallidum
+Vta,ventral  thalamic area
+VTA,ventral tegmental area
+xscp,decussation superior cerebellar peduncle 
+ZI,zona incerta
